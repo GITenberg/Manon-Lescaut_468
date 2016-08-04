@@ -1,0 +1,31 @@
+_repo: Manon-Lescaut_468
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Prévost, abbé
+    aliases:
+    - Prévost, Antoine François, called Prévost d'Exiles
+    - Prevost, Antoine Francois
+    - Prevost, abbe
+    birthdate: 1697
+    deathdate: 1763
+    gutenberg_agent_id: '250'
+    url: http://www.gutenberg.org/2009/agents/250
+    wikipedia: http://en.wikipedia.org/wiki/Antoine_Fran%C3%A7ois_Pr%C3%A9vost
+description: ''
+gutenberg_issued: '1996-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '468'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Adventure stories'
+- !lcc 'PQ'
+- !lcsh 'Man-woman relationships -- Fiction'
+- !lcsh 'Lescaut, Manon, 1689-1721 -- Fiction'
+- GITenberg
+title: Manon Lescaut
+url: http://www.gutenberg.org/ebooks/468
