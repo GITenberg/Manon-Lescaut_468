@@ -483,7 +483,7 @@ life, if Manon had remained faithful to me.  The more I saw of her, the
 more I discovered in her new perfections.  Her mind, her heart, her
 gentleness and beauty, formed a chain at once so binding and so
 agreeable, that I could have found perfect happiness in its enduring
-influence.  Terrible fatality? that which has been the source of my
+influence.  Terrible fatality, that which has been the source of my
 despair, might, under a slight change of circumstances, have
 constituted my happiness.  I find myself the most wretched of mankind,
 by the force of that very constancy from which I might have fairly
@@ -500,7 +500,7 @@ conducted herself with the strictest propriety, the tranquil life we
 led served to restore me by degrees to a sense of duty.
 
 "I resolved to effect, if possible, a reconciliation with my parent.
-My mistress was to me so perfectly lovable, that I could not a doubt
+My mistress was to me so perfectly lovable, that I could not doubt
 her power of captivating my father, if I could only find the means of
 making him acquainted with her good conduct and merit.  In a word, I
 relied on obtaining his consent to our marriage, having given up all
@@ -542,7 +542,7 @@ that she did not hear me knock.  'I only knocked once,' said I; 'so if
 you did not hear me, why come to open the door at all?'  This query
 disconcerted her so visibly, that losing her presence of mind, she
 began to cry, assuring me that it was not her fault; and that her
-mistress had desired her not to open the door until M. de B----had had
+mistress had desired her not to open the door until M. de B---- had had
 time to go down by the back staircase.  I was so confounded by this
 information as to be utterly unable to proceed to our apartment; and
 was obliged to leave the house, under the pretext of an appointment.  I
@@ -990,7 +990,7 @@ living from that prelate before our departure.
 
 "My father, thinking me quite cured of my passion, made no objection to
 my taking final leave.  We arrived at Paris.  The Cross of Malta gave
-place to the ecclesiastical habit, and the designation of the Abbe de
+place to the ecclesiastical habit, and the designation of the Abbé de
 Grieux was substituted for that of chevalier.  I applied so diligently
 to study, that in a few months I had made extraordinary progress.  I
 never lost a moment of the day, and employed even part of the night.  I
@@ -1035,7 +1035,7 @@ class of theology:  I invited several persons of consideration to
 honour me with their presence on the occasion. My name was mentioned in
 every quarter of Paris: it even reached the ears of her who had
 betrayed me.  She had some difficulty in recognising it with the prefix
-of Abbe; but curiosity, or perhaps remorse for having been faithless to
+of Abbé; but curiosity, or perhaps remorse for having been faithless to
 me (I could never after ascertain by which of these feelings she was
 actuated), made her at once take an interest in a name so like mine;
 and she came with several other women to the Sorbonne, where she was
@@ -1658,7 +1658,7 @@ under the most trying circumstances.
 
 "Manon's caresses soon dissipated the annoyance this scene had caused
 me.  We continued to lead a life entirely devoted to pleasure and love.
-The increase of our wealth only redoubled our affection.  There none
+The increase of our wealth only redoubled our affection.  There were none
 happier among all the devotees of Venus and Fortune.  Heavens! why call
 this a world of misery, when it can furnish a life of such rapturous
 enjoyment?  But alas, it is too soon over!  For what ought man to sigh,
@@ -1935,7 +1935,7 @@ is not an unreasonable price!'
 
 "Her determination was of more value in my eyes than twenty thousand
 crowns.  I could feel that I was not yet bereft of every sentiment of
-honour, by the satisfaction I experienced at escaping thus from infamy,
+honour, by the satisfaction I experienced at escaping thus from infamy.
 But I was born for brief joys, and miseries of long duration.  Fate
 never rescued me from one precipice, but to lead me to another.  When I
 had expressed my delight to Manon at this change in her intentions, I
@@ -2814,12 +2814,12 @@ execution the following day, and to render our success as certain as he
 could, we resolved to carry into the prison men's clothes, in order to
 facilitate her escape."
 
-There was a difficulty to be surmounted in carrying them in, but I had
+"There was a difficulty to be surmounted in carrying them in, but I had
 ingenuity enough to meet it.  I begged of M. de T---- only to put on
 two light waistcoats the next morning, and I undertook to arrange the
 rest.
 
-We returned the following day to the Hospital.  I took with me linen,
+"We returned the following day to the Hospital.  I took with me linen,
 stockings, etc., for Manon, and over my body-coat a surtout, which
 concealed the bulk I carried in my pockets.  We remained but a moment
 in her room.  M. de T---- left her one of his waistcoats; I gave her my
@@ -3511,7 +3511,7 @@ begged permission to call and renew the offer of his services.  He went
 off next morning with M. de T----, who accepted the offer of a seat in
 his carriage.
 
-"I felt, as I before said, not the slightest symptom of jealousy I had
+"I felt, as I before said, not the slightest symptom of jealousy: I had
 a more foolish confidence than ever in Manon's vows.  This dear
 creature had so absolute a dominion over my whole soul and affections,
 that I could give place to no other sentiment towards her than that of
@@ -3827,7 +3827,7 @@ rudely repulsed her.  'What do you wish with me?' exclaimed I to her.
 the very gentleness of your look threatens me with some new treason.
 Go, leave me here alone!'  She made me a curtsy without uttering a
 word, and turned to go out.  I called to her to stop:  'Tell me at
-least,' said I, 'wherefore-- how--with what design they sent you here?
+least,' said I, 'wherefore--how--with what design they sent you here?
 how did you discover my name, or the place where you could find me?'
 
 "She told me that she had long known M. G---- M----; that he had sent
@@ -4230,9 +4230,9 @@ was a fellow ripe for any adventure; and he no sooner heard our plan,
 than he assured me of certain success: all he required were six
 pistoles, to reward the three private soldiers whom he determined to
 employ in the business.  I begged of him to lose no time.  He got them
-together in less than a quarter of in hour.  I waited at his lodgings
+together in less than a quarter of an hour.  I waited at his lodgings
 till he returned with them, and then conducted him to the corner of a
-street through which I knew G----  M---- must pass an going back to
+street through which I knew G----  M---- must pass in going back to
 Manon's house.  I requested him not to treat G---- M---- roughly, but
 to keep him confined, and so strictly watched, until seven o'clock next
 morning, that I might be free from all apprehension of his escape.  He
@@ -4363,11 +4363,11 @@ to set that matter to rights.'
 
 "He approached Manon, who was sitting upon the bed, bathed in a flood
 of tears.  He said something, with the most cruel irony, of the
-despotic power she wielded over old and young, father and son-- her
+despotic power she wielded over old and young, father and son--her
 edifying dominion over her empire.  This superannuated monster of
 incontinence actually attempted to take liberties with her.
 
-"'Take care,' exclaimed I, 'how you lay a finger upon her!-- neither
+"'Take care,' exclaimed I, 'how you lay a finger upon her!--neither
 divine nor human law will be able, should your folly arouse it, to
 shield you from my vengeance!'
 
@@ -4450,7 +4450,7 @@ am ready to let you know the place where he is safely passing the
 night, if, in return, you will set us at liberty.'
 
 "The old tiger, far from being softened by my prayer, turned his back
-upon me and laughed.  A few words, escaped him, which showed that he
+upon me and laughed.  A few words escaped him, which showed that he
 perfectly well knew our whole plan from the commencement. As for his
 son, the brute said that he would easily find him, since I had not
 assassinated him.  'Conduct them to the Petit-Chatelet,' said he to the
@@ -4519,7 +4519,7 @@ evidence of Marcel, I knew that criminal intentions alone were not
 punishable.  I resolved to write immediately to my father, and beg of
 him to come himself to Paris.  I felt much less humiliation, as I have
 already said, in being in Le Chatelet than in St. Lazare.  Besides,
-although I preserved, all proper respect for the paternal authority,
+although I preserved all proper respect for the paternal authority,
 age and experience had considerably lessened my timidity.  I wrote, and
 they made no difficulty in the prison about forwarding my letter; but
 it was a trouble I should have spared myself, had I known that my
@@ -4621,7 +4621,7 @@ that has caused all my errors. Fatal passion!  Have you yourself never
 felt its force?  Is it possible that you, with the same blood in your
 veins that flows in mine, should have passed through life unscathed by
 the same excitements?  Love has rendered me perhaps foolishly
-tender--too easily excited-- too impassioned--too faithful, and
+tender--too easily excited--too impassioned--too faithful, and
 probably too indulgent to the desires and caprices, or, if you will,
 the faults of an adored mistress.  These are my crimes; are they such
 as to reflect dishonour upon you?  Come, my dear father,' said I
@@ -5131,7 +5131,7 @@ prefer-- that is the ordinary price in Paris.'
 
 "I said not a word of Manon, because I did not wish to let them know of
 my passion.  They at first supposed it was merely a boyish whim, that
-made me think of amusing myself with these creatures but when they
+made me think of amusing myself with these creatures: but when they
 discovered that I was in love, they increased their demands in such a
 way, that my purse was completely empty on leaving Mantes, where we had
 slept the night before our arrival at Passy.
@@ -5496,7 +5496,7 @@ passion which I could not subdue, and visited by compunction and
 remorse which I ought not to stifle. But will any man charge me with
 injustice or impiety if I complain of the rigour of Heaven in defeating
 a design that I could only have formed with the view of conciliating
-its favour and complying with its decrees?  Alas I do I say defeated?
+its favour and complying with its decrees?  Alas do I say defeated?
 nay punished as a new crime.  I was patiently permitted to go blindly
 along the high road of vice; and the cruellest chastisements were
 reserved for the period when I was returning to the paths of virtue.  I
